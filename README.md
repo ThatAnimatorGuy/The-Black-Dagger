@@ -11,4 +11,4 @@
 # Welcome To Veridia!
 Veridia is not without its Gods, however one particular God may have came about in the most interesting and peculuiar origin.
 few know the god of time, and even less know of his origins. and for good reason.
-travel through the ethereal, material, and uncover the mysteries lurking in the Great City of Thandar, in _The Blaack Dagger_!
+travel through the ethereal, material, and uncover the mysteries lurking in the Great City of Thandar, in _The Black Dagger_!
