@@ -17,4 +17,5 @@ travel through the ethereal, material, and uncover the mysteries lurking in the 
 
 # NOTES
 Game was made using _RPG Maker MV._
-created for the Duke Of Endinburgh's Award
+created for the Duke Of Endinburgh's Award 2023/24. 
+Game is 20% complete so far.
