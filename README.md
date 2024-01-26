@@ -17,7 +17,11 @@ travel through the ethereal, material, and uncover the mysteries lurking in the 
 
 
 # NOTES
-Game was made using _RPG Maker MV._
-created for the Duke Of Endinburgh's Award 2023/24. 
-Game is 20% complete so far.
-NOT AVILABLE FOR MAC USERS!!! THIS ONLY WORKS FOR WINDOWS! MAC VERSION COMING SOON!
+1) Game was made using _RPG Maker MV._
+2) created for the Duke Of Endinburgh's Award 2023/24. 
+3) Game is 20% complete so far.
+4) _NOT AVILABLE FOR MAC USERS!!! THIS ONLY WORKS FOR WINDOWS! MAC VERSION COMING SOON!_
+5) **UNPLAYABLE AFTER MINOTAUR BOSSFIGHT!**
+
+
+# thank you for playtesting, have a nice day :)
