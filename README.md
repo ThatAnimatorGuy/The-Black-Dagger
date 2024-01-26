@@ -24,4 +24,9 @@ travel through the ethereal, material, and uncover the mysteries lurking in the 
 5) **UNPLAYABLE AFTER MINOTAUR BOSSFIGHT!**
 
 
+# contact info
+youtube: https://www.youtube.com/channel/UCsczZIsjpWt47ARS1AKGxDA
+discord: discord.gg/CNkqTQF2dv
+
+
 # thank you for playtesting, have a nice day :)
